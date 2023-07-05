@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: #EAF6F6; 
+  margin: 50px auto;
+  width: 5%;
+}
+
+a {
+  color: #EAF6F6;
+  text-decoration: none;
+}
+
+
+.top-container {
+  background-color: #d5dddb;
+  padding-top: 100px;
+  position: relative;
+}
+
+.span-text {
+  text-decoration: underline;
+}
+
+.first-cloud {
+  position: absolute;
+  right: 450px;
+  top: 15px;
+}
+
+.second-cloud {
+  position: absolute;
+  left: 450px;
+  bottom: 280px;
+}
+
+.mountain {
+  padding-top: 80px;
+  margin-bottom: 0;
+}
+
+.profile-img {
+  height: 156px;
+  width: 156px;
+}
+
+middle-container {
+  background-color: #EAF6F6;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 110px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.ai-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.compt-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.contact-me h3 {
+  margin: 30px auto;
+}
+
+.btn {
+  border-color: #66BFBF;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 30px auto 50px auto;
+  padding: 10px 0 10px 10px;
+  background-color: #66BFBF;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 20px;
+}
+
+div a {
+  color: #11999E;
+  font-weight: bold;
+  margin-right: 20px;
+}
+
+
+.bottom-container p{
+  color: #EAF6F6;
+  margin-top: 30px;
+
+}
